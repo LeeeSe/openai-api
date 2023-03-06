@@ -1,0 +1,6 @@
+{
+    "version": 2,
+    "routes": [
+      {"src": "/(.*)","dest": "https://api.openai.com/v1/chat/completions"}
+    ]
+}
