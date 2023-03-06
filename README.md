@@ -3,7 +3,7 @@
 ```shell
 brew install node
 npm i -g vercel
-git clone
+git clone https://github.com/LeeeSe/openai-api.git
 cd openai-api
 
 vercel login
